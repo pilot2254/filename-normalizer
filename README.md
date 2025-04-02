@@ -107,16 +107,6 @@ const config = {
 
 ## Examples
 
-### Before and After Examples
-
-| Original Filename | snake_case | kebab-case | camelCase | PascalCase
-|-----|-----|-----
-| "My Photos.jpg" | my_photos.jpg | my-photos.jpg | myPhotos.jpg | MyPhotos.jpg
-| "Notes & Ideas" | notes_and_ideas | notes-and-ideas | notesAndIdeas | NotesAndIdeas
-| "project-files(old)" | project_files_old | project-files-old | projectFilesOld | ProjectFilesOld
-| "User's Data.txt" | users_data.txt | users-data.txt | usersData.txt | UsersData.txt
-
-
 ### Example: Converting to kebab-case
 
 ```javascript
